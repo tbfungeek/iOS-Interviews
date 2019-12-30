@@ -6,6 +6,7 @@
 ### 1.1 内存管理相关
 
 * [iOS 内存分布是怎样的？有哪些区域，每个区域的作用](https://github.com/tbfungeek/iOS-Daily-Interview/issues/1)
+* [谈谈iOS的内存管理方式的理解](https://github.com/tbfungeek/iOS-Daily-Interview/issues/2)
 
 ### 1.2 AutoReleasePool相关
 
