@@ -5,6 +5,8 @@
 
 ### 1.1 内存管理相关
 
+* [iOS 内存分布是怎样的？有哪些区域，每个区域的作用](https://github.com/tbfungeek/iOS-Daily-Interview/issues/1)
+
 ### 1.2 AutoReleasePool相关
 
 ### 1.3 分类扩展与协议相关
