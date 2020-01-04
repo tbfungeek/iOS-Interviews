@@ -10,6 +10,7 @@
 * [MRC、ARC和 Autorelease的区别](https://github.com/tbfungeek/iOS-Daily-Interview/issues/3)
 * [ARC 使用的过程中需要注意点以及遵循的原则](https://github.com/tbfungeek/iOS-Daily-Interview/issues/4)
 * [介绍下NSZone](https://github.com/tbfungeek/iOS-Daily-Interview/issues/5)
+* [说说你对assign，strong，weak，unsafe_unretained，copy的理解]（https://github.com/tbfungeek/iOS-Daily-Interview/issues/6）
 
 ### 1.2 AutoReleasePool相关
 
