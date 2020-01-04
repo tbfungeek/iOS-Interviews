@@ -8,7 +8,8 @@
 * [iOS 内存分布是怎样的？有哪些区域，每个区域的作用](https://github.com/tbfungeek/iOS-Daily-Interview/issues/1)
 * [谈谈iOS的内存管理方式的理解](https://github.com/tbfungeek/iOS-Daily-Interview/issues/2)
 * [MRC、ARC和 Autorelease的区别](https://github.com/tbfungeek/iOS-Daily-Interview/issues/3)
-* [ARC 使用的过程中需要注意点，以及遵循的原则]()
+* [ARC 使用的过程中需要注意点以及遵循的原则](https://github.com/tbfungeek/iOS-Daily-Interview/issues/4)
+* [介绍下NSZone](https://github.com/tbfungeek/iOS-Daily-Interview/issues/5)
 
 ### 1.2 AutoReleasePool相关
 
