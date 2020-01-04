@@ -12,6 +12,8 @@
 * [介绍下NSZone](https://github.com/tbfungeek/iOS-Daily-Interview/issues/5)
 * [说说你对assign，strong，weak，unsafe_unretained，copy的理解](https://github.com/tbfungeek/iOS-Daily-Interview/issues/6)
 
+* [ARC在编译时和运行时都做了哪些工作](https://github.com/tbfungeek/iOS-Daily-Interview/issues/7)
+
 ### 1.2 AutoReleasePool相关
 
 ### 1.3 分类扩展与协议相关
