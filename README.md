@@ -44,6 +44,8 @@
 
 * [简要介绍下 @autoreleasePool 的数据结构？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/20)
 
+* [函数返回一个对象时，会对对象 autorelease 么？为什么？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/21)
+
 
 ****循环引用，内存泄漏相关****
 
