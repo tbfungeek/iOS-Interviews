@@ -48,6 +48,10 @@
 
 * [自动释放池的作用是什么](https://github.com/tbfungeek/iOS-Daily-Interview/issues/22)
 
+* [AutoreleasePool drain 和 release区别](https://github.com/tbfungeek/iOS-Daily-Interview/issues/23)
+
+
+
 
 ****循环引用，内存泄漏相关****
 
