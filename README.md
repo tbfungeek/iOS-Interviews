@@ -40,6 +40,8 @@
 
 * [什么是AutoReleasePool，它都有哪几种类型](https://github.com/tbfungeek/iOS-Daily-Interview/issues/18)
 
+* [RunLoop AutoReleasePool的创建及释放时机是怎样的](https://github.com/tbfungeek/iOS-Daily-Interview/issues/19)
+
 ****循环引用，内存泄漏相关****
 
 
