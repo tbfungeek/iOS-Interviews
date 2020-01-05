@@ -50,10 +50,9 @@
 
 * [AutoreleasePool drain 和 release区别](https://github.com/tbfungeek/iOS-Daily-Interview/issues/23)
 
-
-
-
 ****循环引用，内存泄漏相关****
+
+* [日常开发中有哪些可能会出现的循环引用？又该怎样解决这些问题](https://github.com/tbfungeek/iOS-Daily-Interview/issues/24)
 
 
 ### 1.2 分类扩展与协议相关
