@@ -30,6 +30,8 @@
 
 * [能不能简述一下 dealloc 的实现机制？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/15)
 
+* [在 MRC 下如何重写属性的 Setter 和 Getter?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/16)
+
 
 
 
