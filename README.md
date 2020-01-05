@@ -5,6 +5,8 @@
 
 ### 1.1 内存管理相关
 
+****内存管理****
+
 * [iOS 内存分布是怎样的？有哪些区域，每个区域的作用](https://github.com/tbfungeek/iOS-Daily-Interview/issues/1)
 * [谈谈iOS的内存管理方式的理解](https://github.com/tbfungeek/iOS-Daily-Interview/issues/2)
 
@@ -34,43 +36,36 @@
 
 * [介绍下@property、@synthesize和@dynamic的作用](https://github.com/tbfungeek/iOS-Daily-Interview/issues/17)
 
+****AutoReleasePool相关****
+
+****循环引用，内存泄漏相关****
 
 
+### 1.2 分类扩展与协议相关
 
+### 1.3 Block 相关
 
+### 1.4 RunLoop相关
 
+### 1.5 KVC KVO 相关
 
+### 1.6 UI 相关
 
+#### 1.6.1 生命周期相关
 
+#### 1.6.2 渲染相关
 
+#### 1.6.3 布局相关
 
-### 1.2 AutoReleasePool相关
+#### 1.6.4 动画相关
 
-### 1.3 分类扩展与协议相关
+#### 1.6.5 事件相关
 
-### 1.4 Block 相关
+### 1.7 多线程相关
 
-### 1.5 RunLoop相关
+### 1.8 RunLoop相关
 
-### 1.6 KVC KVO 相关
-
-### 1.7 UI 相关
-
-#### 1.7.1 生命周期相关
-
-#### 1.7.2 渲染相关
-
-#### 1.7.3 布局相关
-
-#### 1.7.4 动画相关
-
-#### 1.7.5 事件相关
-
-### 1.8 多线程相关
-
-### 1.9 RunLoop相关
-
-### 1.10 其他
+### 1.9 其他
 
 ## 二. iOS高级面试题
 
