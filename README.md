@@ -32,6 +32,13 @@
 
 * [在 MRC 下如何重写属性的 Setter 和 Getter?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/16)
 
+* [介绍下@property、@synthesize和@dynamic的作用](https://github.com/tbfungeek/iOS-Daily-Interview/issues/17)
+
+
+
+
+
+
 
 
 
