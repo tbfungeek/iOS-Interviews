@@ -17,7 +17,9 @@
 * [介绍下NSZone](https://github.com/tbfungeek/iOS-Daily-Interview/issues/5)
 * [说说你对assign，strong，weak，unsafe_unretained，copy的理解](https://github.com/tbfungeek/iOS-Daily-Interview/issues/6)
 
-* [访问 __weak 修饰的变量，是否已经被注册在了 @autoreleasePool 中？为什么？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/9)
+* [__weak 修饰的变量，是否已经被注册在了 @autoreleasePool 中？为什么？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/9)
+
+* [ARC 的 retainCount 怎么存储的？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/10)
 
 
 
