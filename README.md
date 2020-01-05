@@ -38,6 +38,8 @@
 
 ****AutoReleasePool相关****
 
+* [什么是AutoReleasePool，它都有哪几种类型](https://github.com/tbfungeek/iOS-Daily-Interview/issues/18)
+
 ****循环引用，内存泄漏相关****
 
 
