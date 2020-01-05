@@ -24,6 +24,7 @@
 * [__weak 属性修饰的变量，如何实现在变量没有强引用后自动置为 nil？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/11)
 
 * [说一下什么是 悬垂指针？什么是 野指针?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/12)
+* [BAD_ACCESS 在什么情况下出现?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/13)
 
 
 
