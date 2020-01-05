@@ -54,6 +54,8 @@
 
 * [日常开发中有哪些可能会出现的循环引用？又该怎样解决这些问题](https://github.com/tbfungeek/iOS-Daily-Interview/issues/24)
 
+* [内存泄漏有几种类型？有哪些排查方式](https://github.com/tbfungeek/iOS-Daily-Interview/issues/25)
+
 
 ### 1.2 分类扩展与协议相关
 
