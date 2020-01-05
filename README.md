@@ -46,6 +46,8 @@
 
 * [函数返回一个对象时，会对对象 autorelease 么？为什么？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/21)
 
+* [自动释放池的作用是什么](https://github.com/tbfungeek/iOS-Daily-Interview/issues/22)
+
 
 ****循环引用，内存泄漏相关****
 
