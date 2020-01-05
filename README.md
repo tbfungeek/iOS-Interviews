@@ -42,6 +42,9 @@
 
 * [RunLoop AutoReleasePool的创建及释放时机是怎样的](https://github.com/tbfungeek/iOS-Daily-Interview/issues/19)
 
+* [简要介绍下 @autoreleasePool 的数据结构？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/20)
+
+
 ****循环引用，内存泄漏相关****
 
 
