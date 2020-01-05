@@ -26,6 +26,11 @@
 * [说一下什么是 悬垂指针？什么是 野指针?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/12)
 * [BAD_ACCESS 在什么情况下出现?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/13)
 
+* [retain、release 的实现机制是怎样的？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/14)
+
+* [能不能简述一下 Dealloc 的实现机制？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/15)
+
+
 
 
 
