@@ -21,6 +21,8 @@
 
 * [ARC 的 retainCount 怎么存储的？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/10)
 
+* [__weak 属性修饰的变量，如何实现在变量没有强引用后自动置为 nil？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/11)
+
 
 
 
