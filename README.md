@@ -58,15 +58,16 @@
 
 ### 1.2 分类扩展与协议相关
 
-* [分类的作用有哪些](https://github.com/tbfungeek/iOS-Daily-Interview/issues/26)
-* [分类与扩展的区别](https://github.com/tbfungeek/iOS-Daily-Interview/issues/27)
-* [通过分类可以为某个类添加哪些东西](https://github.com/tbfungeek/iOS-Daily-Interview/issues/28)
+* [分类的作用有哪些?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/26)
+* [分类与扩展的区别?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/27)
+* [通过分类可以为某个类添加哪些东西?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/28)
 * [分类的实现原理？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/29)
 * [如何给分类添加属性？关联对象以什么形式进行存储？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/30)
 * [分类可不可以添加实例对象？为什么？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/31)
-* [分类在编译过后，是在什么时机与原有的类合并到一起的](https://github.com/tbfungeek/iOS-Daily-Interview/issues/32)
-* [分类与宿主类有同名方法会有什么结果](https://github.com/tbfungeek/iOS-Daily-Interview/issues/33)
-* [分类与其他分类有同名方法会有什么结果](https://github.com/tbfungeek/iOS-Daily-Interview/issues/34)
+* [分类在编译过后，是在什么时机与原有的类合并到一起的?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/32)
+* [分类与宿主类有同名方法会有什么结果?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/33)
+* [分类与其他分类有同名方法会有什么结果?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/34)
+* [协议可以添加属性吗？如果可以怎么添加。](https://github.com/tbfungeek/iOS-Daily-Interview/issues/35)
 
 
 
