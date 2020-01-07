@@ -78,6 +78,9 @@
 * [说说你对__block的理解，以及forwarding的作用](https://github.com/tbfungeek/iOS-Daily-Interview/issues/40)
 * [对不同类型的block进行copy操作结果分别是怎样的？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/41)
 * [哪些情况下block会被copy到堆上？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/42)
+* [__block 的解释以及在 ARC 和 MRC 下有什么不同？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/43)
+* [dispatch_block_t这个有没有用过？解释一下？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/44)
+
 
 ### 1.4 RunLoop相关
 
