@@ -69,10 +69,15 @@
 * [分类与其他分类有同名方法会有什么结果?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/34)
 * [协议可以添加属性吗？如果可以怎么添加。](https://github.com/tbfungeek/iOS-Daily-Interview/issues/35)
 
-
-
-
 ### 1.3 Block 相关
+
+* [说一下什么是Block?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/36)
+* [Block 和 函数指针 的区别? ](https://github.com/tbfungeek/iOS-Daily-Interview/issues/37)
+* [说下Block的对不同类型变量的捕获情况 ](https://github.com/tbfungeek/iOS-Daily-Interview/issues/38)
+* [Block 有几种类型？分别是什么？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/39)
+* [说说你对__block的理解，以及forwarding的作用](https://github.com/tbfungeek/iOS-Daily-Interview/issues/40)
+* [对不同类型的block进行copy操作结果分别是怎样的？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/41)
+* [哪些情况下block会被copy到堆上？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/42)
 
 ### 1.4 RunLoop相关
 
