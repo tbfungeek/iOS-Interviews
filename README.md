@@ -82,7 +82,7 @@
 * [dispatch_block_t这个有没有用过？解释一下？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/44)
 
 
-### 1.4 RunLoop相关
+### 1.4 Runtime相关
 
 ### 1.5 KVC KVO 相关
 
