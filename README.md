@@ -64,8 +64,30 @@
 * [__block 的解释以及在 ARC 和 MRC 下有什么不同？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/43)
 * [dispatch_block_t这个有没有用过？解释一下？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/44)
 
-
 ### 1.4 Runtime相关
+
+* [实例对象的数据结构？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/45)
+* [类对象及元类对象的数据结构?] (https://github.com/tbfungeek/iOS-Daily-Interview/issues/46)
+* [Obj-C 对象、类的本质是通过什么数据结构实现的？ ](https://github.com/tbfungeek/iOS-Daily-Interview/issues/47)
+* [Obj-C 中的类信息存放在哪里？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/48)
+* [一个 NSObject 对象占用多少内存空间？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/49)
+* [说一下对 class_rw_t 结构体的理解？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/50)
+* [说一下对 class_ro_t 的理解？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/51)
+* [说一下对 isa 指针的理解，对象的 isa 指针指向哪里？ isa 指针有哪两种类型？（注意区分不同对象）](https://github.com/tbfungeek/iOS-Daily-Interview/issues/52)
+* [说一下 Runtime 消息解析。](https://github.com/tbfungeek/iOS-Daily-Interview/issues/53)
+* [说一下 Runtime 消息转发。](https://github.com/tbfungeek/iOS-Daily-Interview/issues/54)
+* [Runtime 如何实现动态添加方法和属性？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/55)
+* [说一下 Method Swizzling? 说一下在实际开发中你在什么场景下使用过? ](https://github.com/tbfungeek/iOS-Daily-Interview/issues/56)
+* [如何运用 Runtime 字典转模型？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/57)
+* [如何运用 Runtime 进行模型的归解档？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/58)
+* [在 Obj-C 中为什么叫发消息而不叫函数调用？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/59)
+* [说一下 Runtime 的方法缓存？存储的形式、数据结构以及查找的过程？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/60)
+* [是否了解 Type Encoding? ](https://github.com/tbfungeek/iOS-Daily-Interview/issues/61)
+* [Objective-C 如何实现多重继承？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/62)
+* [说说+load +initializer区别](https://github.com/tbfungeek/iOS-Daily-Interview/issues/63)
+* [说说Mach O的组成结构以及每个部分的作用](https://github.com/tbfungeek/iOS-Daily-Interview/issues/64)
+* [说说点击App后到main方法经过的步骤](https://github.com/tbfungeek/iOS-Daily-Interview/issues/65)
+* [说说点击App后到main方法经过的步骤](https://github.com/tbfungeek/iOS-Daily-Interview/issues/65)
 
 ### 1.5 KVC KVO 相关
 
