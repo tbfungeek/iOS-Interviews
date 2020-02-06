@@ -67,7 +67,7 @@
 ### 1.4 Runtime相关
 
 * [实例对象的数据结构？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/45)
-* [类对象及元类对象的数据结构?] (https://github.com/tbfungeek/iOS-Daily-Interview/issues/46)
+* [类对象及元类对象的数据结构?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/46)
 * [Obj-C 对象、类的本质是通过什么数据结构实现的？ ](https://github.com/tbfungeek/iOS-Daily-Interview/issues/47)
 * [Obj-C 中的类信息存放在哪里？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/48)
 * [一个 NSObject 对象占用多少内存空间？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/49)
