@@ -86,6 +86,8 @@
 * [说说+load +initializer区别](https://github.com/tbfungeek/iOS-Daily-Interview/issues/62)
 * [说说Mach O的组成结构以及每个部分的作用](https://github.com/tbfungeek/iOS-Daily-Interview/issues/63)
 * [说说点击App后到main方法经过的步骤](https://github.com/tbfungeek/iOS-Daily-Interview/issues/64)
+* [class方法和objc_getClass方法有什么区别?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/65)
+
 
 ### 1.5 KVC KVO 相关
 
