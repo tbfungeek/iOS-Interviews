@@ -91,6 +91,11 @@
 
 ### 1.5 KVC KVO 相关
 
+* [说下KVC与普通的实例变量存取方法的区别](https://github.com/tbfungeek/iOS-Daily-Interview/issues/66)
+* [说下KVC setValue:forKey:的搜索策略](https://github.com/tbfungeek/iOS-Daily-Interview/issues/67)
+* [说下KVC valueForKey:的搜索策略](https://github.com/tbfungeek/iOS-Daily-Interview/issues/68)
+* [说下KVC 常用的场景](https://github.com/tbfungeek/iOS-Daily-Interview/issues/69)
+
 ### 1.6 UI 相关
 
 #### 1.6.1 生命周期相关
