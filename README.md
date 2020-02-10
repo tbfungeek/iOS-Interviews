@@ -95,6 +95,9 @@
 * [说下KVC setValue:forKey:的搜索策略](https://github.com/tbfungeek/iOS-Daily-Interview/issues/67)
 * [说下KVC valueForKey:的搜索策略](https://github.com/tbfungeek/iOS-Daily-Interview/issues/68)
 * [说下KVC 常用的场景](https://github.com/tbfungeek/iOS-Daily-Interview/issues/69)
+* [介绍下KVO的原理](https://github.com/tbfungeek/iOS-Daily-Interview/issues/70)
+* [介绍下KVO的触发时机](https://github.com/tbfungeek/iOS-Daily-Interview/issues/71)
+* [说说什么时候需要手动触发KVO](https://github.com/tbfungeek/iOS-Daily-Interview/issues/72)
 
 ### 1.6 UI 相关
 
