@@ -101,6 +101,36 @@
 
 ### 1.6 多线程相关
 
+* [介绍下iOS中的多线程的几种实现方案，及各自的特点](https://github.com/tbfungeek/iOS-Daily-Interview/issues/73)
+* [创建太多线程会有什么影响](https://github.com/tbfungeek/iOS-Daily-Interview/issues/74)
+* [说一下线程的生命周期](https://github.com/tbfungeek/iOS-Daily-Interview/issues/75)
+* [说一下线程的生命周期](https://github.com/tbfungeek/iOS-Daily-Interview/issues/76)
+* [介绍下GCD的特点](https://github.com/tbfungeek/iOS-Daily-Interview/issues/77)
+* [说下任务和队列组成的四种组合的情况](https://github.com/tbfungeek/iOS-Daily-Interview/issues/78)
+* [介绍下GCD 任务组的作用](https://github.com/tbfungeek/iOS-Daily-Interview/issues/79)
+* [介绍下dispatch_group_enter/dispatch_group_leave和dispatch_group_async各自的应用场景以及使用的时候需要注意哪些问题](https://github.com/tbfungeek/iOS-Daily-Interview/issues/80)
+* [介绍下dispatch_barrier_async的应用场景](https://github.com/tbfungeek/iOS-Daily-Interview/issues/81)
+* [介绍下你所知道的NSOperation 和 NSOperationQueue的相关内容](https://github.com/tbfungeek/iOS-Daily-Interview/issues/82)
+* [NSOperation如何实现串行](https://github.com/tbfungeek/iOS-Daily-Interview/issues/83)
+* [如何实现线性编程？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/84)
+* [说一下 GCD 并发队列实现机制？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/85)
+* [说一下你了解的iOS开发中的各种锁](https://github.com/tbfungeek/iOS-Daily-Interview/issues/86)
+* [NSLock使用的时候需要注意哪些](https://github.com/tbfungeek/iOS-Daily-Interview/issues/87)
+* [为什么需要递归锁，它解决的问题是什么](https://github.com/tbfungeek/iOS-Daily-Interview/issues/88)
+* [Synchronized 的实现机制](https://github.com/tbfungeek/iOS-Daily-Interview/issues/89)
+* [说说自旋锁与互斥锁的区别，以及自旋锁适用的场景](https://github.com/tbfungeek/iOS-Daily-Interview/issues/90)
+* [如何确保线程安全？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/91)
+* [atomic 在保证线程安全使用方面要注意哪些问题](https://github.com/tbfungeek/iOS-Daily-Interview/issues/92)
+* [NSMutableArray、和 NSMutableDictionary是线程安全的吗？NSCache呢?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/93)
+* [多线程的 并行 和 并发 有什么区别？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/94)
+* [多线程有哪些优缺点？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/95)
+* [如何自定义 NSOperation ? ](https://github.com/tbfungeek/iOS-Daily-Interview/issues/96)
+* [GCD 与 NSOperationQueue 有哪些异同？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/97)
+* [解释一下多线程中的死锁？，死锁的条件，以及死锁的解决方案](https://github.com/tbfungeek/iOS-Daily-Interview/issues/98)
+* [解释一下多线程中的优先级反转？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/99)
+* [子线程是否会出现死锁？说一下场景？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/100)
+* [多线程技术在使用过程中有哪些注意事项？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/101)
+
 ### 1.7 RunLoop相关
 
 ### 1.8 UI 相关
