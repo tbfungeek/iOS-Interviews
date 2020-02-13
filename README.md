@@ -104,7 +104,7 @@
 * [介绍下iOS中的多线程的几种实现方案，及各自的特点](https://github.com/tbfungeek/iOS-Daily-Interview/issues/73)
 * [创建太多线程会有什么影响](https://github.com/tbfungeek/iOS-Daily-Interview/issues/74)
 * [说一下线程的生命周期](https://github.com/tbfungeek/iOS-Daily-Interview/issues/75)
-* [说一下线程的生命周期](https://github.com/tbfungeek/iOS-Daily-Interview/issues/76)
+[](https://github.com/tbfungeek/iOS-Daily-Interview/issues/76)
 * [介绍下GCD的特点](https://github.com/tbfungeek/iOS-Daily-Interview/issues/77)
 * [说下任务和队列组成的四种组合的情况](https://github.com/tbfungeek/iOS-Daily-Interview/issues/78)
 * [介绍下GCD 任务组的作用](https://github.com/tbfungeek/iOS-Daily-Interview/issues/79)
