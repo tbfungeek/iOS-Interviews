@@ -153,6 +153,7 @@
 * [介绍下定时执行有几种方式](https://github.com/tbfungeek/iOS-Daily-Interview/issues/119)
 * [如何检测 App 运行过程中是否卡顿？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/120)
 * [简单介绍下你所知道的Runloop的应用](https://github.com/tbfungeek/iOS-Daily-Interview/issues/121)
+* [写出你所了解的定时器实现](https://github.com/tbfungeek/iOS-Daily-Interview/issues/122)
 
 ### 1.8 UI 相关
 
