@@ -134,11 +134,11 @@
 ### 1.7 RunLoop相关
 
 * [Runloop 和线程的关系？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/102)
-* [讲一下 Runloop 的 Mode?)](https://github.com/tbfungeek/iOS-Daily-Interview/issues/103)
+* [讲一下 Runloop 的 Mode?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/103)
 * [讲一下 Observer ？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/104)
 * [讲一下 Source ？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/105)
 * [讲一下 Runloop 的内部实现逻辑？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/106)
-* [你所知的哪些三方框架使用了 Runloop?（AFNetworking、Texture 等）](https://github.com/tbfungeek/iOS-Daily-Interview/issues/107)
+* [你所知的哪些三方框架使用了 Runloop?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/107)
 * [AutoreleasePool 在何时被释放？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/108)
 * [解释一下 事件响应 的过程？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/109)
 * [解释一下 手势识别 的过程？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/110)
