@@ -158,15 +158,78 @@
 
 #### 1.8.1 生命周期相关
 
+* [介绍下应用又有哪些状态]()
+* [介绍下，冷启动，热启动，锁屏，解锁，按Home进入后台，其他应用中断了当前应用，重新回到当前应用这些情况都会调用哪些方法](https://github.com/tbfungeek/iOS-Daily-Interview/issues/122)
+* [应用如何在后台保活](https://github.com/tbfungeek/iOS-Daily-Interview/issues/123)
+* [介绍下应用的生命周期](https://github.com/tbfungeek/iOS-Daily-Interview/issues/124)
+* [介绍下UIView的生命周期](https://github.com/tbfungeek/iOS-Daily-Interview/issues/125)
+* [介绍下UIViewController的生命周期](https://github.com/tbfungeek/iOS-Daily-Interview/issues/126)
+* [LoadView方法了解吗？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/127)
+* [说一下控制器 View 的生命周期，一旦收到内存警告会如何处理？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/128)
+* [说下什么情况下会触发约束的自动更新，怎么手动更新约束](https://github.com/tbfungeek/iOS-Daily-Interview/issues/129)
+* [说下什么情况下会触发布局的自动更新，怎么手动更新布局](https://github.com/tbfungeek/iOS-Daily-Interview/issues/130)
+* [说下什么情况下会自动触发绘制，怎么手动触发绘制](https://github.com/tbfungeek/iOS-Daily-Interview/issues/131)
+
 #### 1.8.2 渲染相关
+
+* [简要介绍下iOS 渲染框架组成](https://github.com/tbfungeek/iOS-Daily-Interview/issues/132)
+* [为什么要存在UIView和CALayer，说说它们的区别及联系](https://github.com/tbfungeek/iOS-Daily-Interview/issues/133)
+* [介绍下绘制流程](https://github.com/tbfungeek/iOS-Daily-Interview/issues/134)
+* [说下渲染的整个过程，以及CPU,GPU各做了哪些工作](https://github.com/tbfungeek/iOS-Daily-Interview/issues/135)
+* [说下什么是离屏渲染，触发离屏渲染的因素，为什么离屏渲染会比较耗时，要如何解决这些问题](https://github.com/tbfungeek/iOS-Daily-Interview/issues/136)
+* [说说绘图上下文的作用,iOS有哪些绘图上下文类型](https://github.com/tbfungeek/iOS-Daily-Interview/issues/137)
+* [CGContextSaveGState/CGContextRestoreGState 与 UIGraphicsPushContext/UIGraphicsPopContext区别](https://github.com/tbfungeek/iOS-Daily-Interview/issues/138)
+* [CGPath 和 UIBezierPath() 区别](https://github.com/tbfungeek/iOS-Daily-Interview/issues/139)
 
 #### 1.8.3 布局相关
 
+* [简要介绍下frame, bounds, position，center，anchorPoint这些属性](https://github.com/tbfungeek/iOS-Daily-Interview/issues/140)
+* [有哪几种布局方式](https://github.com/tbfungeek/iOS-Daily-Interview/issues/141)
+* [说说AutoLayout 工作原理](https://github.com/tbfungeek/iOS-Daily-Interview/issues/142)
+* [说说bounds 和 Frame 的区别?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/143)
+* [说说你知道的三方布局开源库，简要对比下，它们的优缺点](https://github.com/tbfungeek/iOS-Daily-Interview/issues/144)
+* [TableViewCell 如何根据 UILabel 内容长度自动调整高度](https://github.com/tbfungeek/iOS-Daily-Interview/issues/145)
+
 #### 1.8.4 动画相关
+
+* [简要介绍下动画所涉及到的哪些类，它们的继承关系是怎样的](https://github.com/tbfungeek/iOS-Daily-Interview/issues/146)
+* [说说动画的事务管理](https://github.com/tbfungeek/iOS-Daily-Interview/issues/147)
+* [什么情况下会有隐式动画，为什么会有隐式动画](https://github.com/tbfungeek/iOS-Daily-Interview/issues/148)
+* [说说presentingViewController和presentedViewController的区别](https://github.com/tbfungeek/iOS-Daily-Interview/issues/149)
+* [如何暂停一个 UIView 中正在播放的动画？暂停后如何恢复？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/150)
 
 #### 1.8.5 事件相关
 
+* [说说iOS有哪些事件源类型](https://github.com/tbfungeek/iOS-Daily-Interview/issues/151)
+* [哪些对象能够响应事件，这些对象的共同点是什么？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/152)
+* [说说touchesBegan/touchesMoved/touchesEnded/touchesCancelled的作用](https://github.com/tbfungeek/iOS-Daily-Interview/issues/153)
+* [说说iOS上的事件对象有哪些相关的类，它们之间的关系是怎样的？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/154)
+* [介绍下事件的传递流程](https://github.com/tbfungeek/iOS-Daily-Interview/issues/155)
+* [介绍下构建响应链的流程，及事件响应流程](https://github.com/tbfungeek/iOS-Daily-Interview/issues/156)
+* [说下手势有哪些状态？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/157)
+* [说下事件和手势共存的情况下的事件处理流程](https://github.com/tbfungeek/iOS-Daily-Interview/issues/158)
+* [说下常见的事件冲突和解决方案](https://github.com/tbfungeek/iOS-Daily-Interview/issues/159)
+
 ### 1.9 其他
+
+* [UIButton 的父类是什么？UILabel 的父类又是什么？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/160)
+* [实现一个控件，可以浮在任意界面的上层并支持拖动？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/161)
+* [如何以通用的方法找到当前显示的ViewController?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/162)
+* [setNeedsDisplay 和 layoutIfNeeded 两者是什么关系？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/163)
+* [nil、NIL、NSNULL 有什么区别？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/164)
+* [如何实现一个线程安全的 NSMutableArray?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/165)
+* [如何定义一台 iOS 设备的唯一性?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/166)
+* [atomic 修饰的属性是绝对安全的吗？为什么？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/167)
+* [实现 isEqual 和 hash 方法时要注意什么](https://github.com/tbfungeek/iOS-Daily-Interview/issues/168)
+* [id 和 instanceType 有什么区别？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/169)
+* [说一下对 Super 关键字的理解](https://github.com/tbfungeek/iOS-Daily-Interview/issues/170)
+* [了解 逆变 和 协变 吗？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/171)
+* [@synthesize 和 @dynamic 分别有什么作用？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/172)
+* [typeof 和 __typeof，__typeof__ 的区别?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/173)
+* [如何判断一个文件在沙盒中是否存在？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/174)
+* [头文件导入的方式？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/175)
+* [如何将 Obj-C 代码改变为 C++/C 的代码？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/176)
+* [objc_getClass()、object_getClass()、Class 这三个方法用来获取类对象有什么不同？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/177)
 
 ## 二. iOS高级面试题
 
