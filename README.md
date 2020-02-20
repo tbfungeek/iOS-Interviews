@@ -164,7 +164,7 @@
 * [介绍下应用的生命周期](https://github.com/tbfungeek/iOS-Daily-Interview/issues/125)
 * [介绍下UIView的生命周期](https://github.com/tbfungeek/iOS-Daily-Interview/issues/126)
 * [介绍下UIViewController的生命周期](https://github.com/tbfungeek/iOS-Daily-Interview/issues/127)
-* [LoadView方法了解吗？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/128)
+* [loadView方法了解吗？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/128)
 * [说一下控制器 View 的生命周期，一旦收到内存警告会如何处理？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/129)
 * [说下什么情况下会触发约束的自动更新，怎么手动更新约束](https://github.com/tbfungeek/iOS-Daily-Interview/issues/130)
 * [说下什么情况下会触发布局的自动更新，怎么手动更新布局](https://github.com/tbfungeek/iOS-Daily-Interview/issues/131)
@@ -188,7 +188,7 @@
 * [说说AutoLayout 工作原理](https://github.com/tbfungeek/iOS-Daily-Interview/issues/143)
 * [说说bounds 和 Frame 的区别?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/144)
 * [说说你知道的三方布局开源库，简要对比下，它们的优缺点](https://github.com/tbfungeek/iOS-Daily-Interview/issues/145)
-* [TableViewCell 如何根据 UILabel 内容长度自动调整高度](https://github.com/tbfungeek/iOS-Daily-Interview/issues/146)
+* [UITableViewCell 如何根据 UILabel 内容长度自动调整高度](https://github.com/tbfungeek/iOS-Daily-Interview/issues/146)
 
 #### 1.8.4 动画相关
 
@@ -222,13 +222,9 @@
 * [实现 isEqual 和 hash 方法时要注意什么](https://github.com/tbfungeek/iOS-Daily-Interview/issues/168)
 * [id 和 instanceType 有什么区别？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/169)
 * [说一下对 Super 关键字的理解](https://github.com/tbfungeek/iOS-Daily-Interview/issues/170)
-* [了解 逆变 和 协变 吗？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/171)
 * [@synthesize 和 @dynamic 分别有什么作用？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/172)
-* [typeof 和 __typeof，__typeof__ 的区别?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/173)
-* [如何判断一个文件在沙盒中是否存在？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/174)
 * [头文件导入的方式？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/175)
 * [如何将 Obj-C 代码改变为 C++/C 的代码？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/176)
-* [objc_getClass()、object_getClass()、Class 这三个方法用来获取类对象有什么不同？](https://github.com/tbfungeek/iOS-Daily-Interview/issues/177)
 * [如何定义一台 iOS 设备的唯一性?](https://github.com/tbfungeek/iOS-Daily-Interview/issues/178)
 
 ## 二. iOS高级面试题
